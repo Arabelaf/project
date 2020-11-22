@@ -1,0 +1,146 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#header {
+    width: 100%;
+    height: 600px;
+    background-color: #75c9bc;
+}
+
+.verde{
+    background-color: #75c9bc;
+}
+
+.tituloHeader{
+    padding-top: 170px;
+}
+
+.tituloHeaderChico{
+    font-size: 27px;
+}
+
+#Titulo2{
+    width: 100%;;
+}
+
+.sobremi{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+.imgHeader{
+    width: 100%;
+}
+
+#presentacion {
+
+    width: 700;
+    height: 300;
+    background-color: #75c9bc;
+    float: right;
+    margin: 4em;
+    padding: 4em; 
+
+  }
+    
+
+#imagen {
+
+    width: 40%;
+    height: 300;
+    float: left;
+    margin: 1em;
+    padding: 1em;
+}
+
+#blanco {
+    width: 100%;
+    height: 600px;
+    background-color: white;
+
+}
+
+#desarrolladora {
+    width: 600px;
+    height: 600px;
+    float: right;
+    background: coral;
+    margin: auto;
+  
+}
+
+#saludo {
+    font-size: 400%;
+    font-family: 'Bungee Shade', cursive;
+    float: left;
+}
+
+#columna {
+    width: 800px ; 
+    height: 600px;
+    background-color: white;
+    float: left;
+    padding: 1em;
+    margin: auto;
+}
+
+.negro {
+
+    background: black;
+}
+.tema {
+    padding-top: 10% ;
+}
+.sobremi {
+  text-align: center;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    padding: 100px;
+    width: 100px;
+}
+
+.contacto {
+width: 100%;
+height: 70px;
+}
+
+.espacio1 {
+    width: 36%;
+    height: 70px;
+}
+.espacio2 {
+    width: 33%;
+    height: 70px;
+}
+.espacio3 {
+    width: 30%;
+    height: 70px;
+    float: right;
+}
+.facebook {
+    float: center;
+}
+.listad {
+    text-align: center;
+    padding-top: 13%;
+    background-color: #75c9bc;
+}
+.letras
+{
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+
+.hobbies {
+    font-family: 'Merriweather', serif;
+    padding-top: 10px;
+}
+
+.lista0 {
+    
+    text-align: center;
+    padding-top: 13%;
+    background-color: #75c9bc;
+}
